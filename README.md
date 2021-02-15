@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## About me
+I'm developing an iOS app.
+
 <!--
 **kudpig/kudpig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
