@@ -11,6 +11,7 @@
 ご指摘いただけると喜びます😄<br>
 
 技術記事も書いてます。<br>
+[[Swift] MVPの基礎をシンプルなアプリを作りながら説明する](https://qiita.com/kudpig/items/21137375f20378ee15d1)<br>
 [[Swift] Protocolを使ったdelegateで値の受け渡しをする](https://qiita.com/kudpig/items/00373757a306939ccacb) <br>
 [[Swift] 画面遷移をコードで記述する](https://qiita.com/kudpig/items/954f849c620ff723b950)
 
