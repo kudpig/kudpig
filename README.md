@@ -24,7 +24,7 @@
 
 - Swift / Xcode (UIKit)
 
-- JavaScript
+- kotlin / AndroidStudio
 
 - Ruby / Ruby on Rails
 
