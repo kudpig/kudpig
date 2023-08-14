@@ -7,12 +7,11 @@ Recently, I am interested in design and technology selection and am studying.
 I know a little bit about iOS.
 Just had a sneak peek at the web app :)
 
-## About me
 ### Favorite Language
 
 - Kotlin
 
-### Can andle
+### Can handle
 
 - kotlin / AndroidStudio
 
