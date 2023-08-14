@@ -1,32 +1,26 @@
 ### Hi there 👋
 
-アプリ開発をしています。
-学習などで備忘録的にリポジトリにあげています。
-中身を確認しやすいように、Readmeに概要や参考資料、ソースコード(一部抜粋)を記載していますので
-よろしければご覧ください。<br>
+Android developer をしています。
 
-コメントアウト等も残しており、その時の思考を確認しやすいようにしています。<br>
+最近は設計や技術選定に興味あって勉強中。
 
-もし「ここ間違っているよ」とか「この書き方は良くない」などありましたら
-ご指摘いただけると喜びます😄<br>
-
-技術記事も書いてます。<br>
-[[Swift] MVPの基礎をシンプルなアプリを作りながら説明する](https://qiita.com/kudpig/items/21137375f20378ee15d1)<br>
-[[Swift] Protocolを使ったdelegateで値の受け渡しをする](https://qiita.com/kudpig/items/00373757a306939ccacb) <br>
-[[Swift] 画面遷移をコードで記述する](https://qiita.com/kudpig/items/954f849c620ff723b950)
+少しだけiOSわかります。
+Web appはチラ見しただけ :)
 
 ## About me
 ### Favorite Language
 
-- Swift
+- Kotlin
 
-### Have learned
-
-- Swift / Xcode (UIKit)
+### Can andle
 
 - kotlin / AndroidStudio
 
+- Swift / Xcode
+
 - Ruby / Ruby on Rails
+
+- Python / Pytest
 
 <!--
 **kudpig/kudpig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
