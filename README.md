@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-Android developer をしています。
+I'm an Android developer.
 
-最近は設計や技術選定に興味あって勉強中。
+Recently, I am interested in design and technology selection and am studying.
 
-少しだけiOSわかります。
-Web appはチラ見しただけ :)
+I know a little bit about iOS.
+Just had a sneak peek at the web app :)
 
 ## About me
 ### Favorite Language
