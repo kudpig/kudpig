@@ -2,18 +2,13 @@
 
 I'm an Android developer.
 
-Recently, I am interested in design and technology selection and am studying.
-
-I know a little bit about iOS.
-Just had a sneak peek at the web app :)
-
 ### Favorite Language
 
 - Kotlin
 
 ### Can handle
 
-- kotlin / AndroidStudio
+- Kotlin / AndroidStudio
 
 - Swift / Xcode
 
